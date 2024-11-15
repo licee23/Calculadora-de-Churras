@@ -8,7 +8,7 @@ de acordo com o número de pessoas participantes.
 ![Captura de tela 2024-11-15 181256](https://github.com/user-attachments/assets/126ac74b-aa3e-4a3c-9b9e-df165b738e8e)
 
 
-ORIENTAÇÃO GERAIS
+## ORIENTAÇÃO GERAIS
 
 * A página deve ter um botão "Calcular" e, ao clicar no botão, deve calcular e exibir as quantidades necessárias sem dar reload na página.
 * A página deve estar bem formatada com CSS, tente algo simples e bonito.
